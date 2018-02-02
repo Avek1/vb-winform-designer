@@ -1,0 +1,11 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\bin\Debug\Designer.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\bin\Debug\Designer.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\bin\Debug\Designer.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\bin\Debug\Designer.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.MyForm.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Designer\Designer\obj\Debug\Designer.pdb
